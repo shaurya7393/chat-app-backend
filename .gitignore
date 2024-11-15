@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Build output
+/dist
+/build
+
+# OS-specific files
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Dependency directories for certain package managers
+.pnp/            # Yarn Plug'n'Play
+.cache/          # npm/yarn cache
+
+# Vercel files (optional if you're using Vercel's CLI locally)
+.vercel/
+
+# Tests
+coverage/
+.vercel
